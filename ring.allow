@@ -1,0 +1,28 @@
+# ------------------------------------[UPDATE]--------------------------------------
+# Title: The Allow List Project - ring alarm system List
+# Expires: 1 day
+
+# ------------------------------------[SUPPORT]-------------------------------------
+
+#
+# allowlist 
+# ------------------------------------[FILTERS]-------------------------------------
+eventsinkgw.us-east-1.gws.ring.com
+es.ring.com
+wu.ring.com.cdn.cloudflare.net
+wu.ring.com
+ring.com
+fw.ring.com
+s-ring.s-9999.s-msedge.net
+b-ring.msedge.net
+t-ring.t-9999.fb-t-msedge.net
+eu-west-1-iperf.ring.com
+iperf.ring.com
+teams-ring.teams-9999.teams-msedge.net
+spo-ring.spo-9999.spo-msedge.net
+teams-ring.msedge.net
+spo-ring.msedge.net
+t-ring-fdv2.msedge.net
+static.ring.com
+l-ring.msedge.net
+dual-s-ring.msedge.net
